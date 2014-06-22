@@ -1,0 +1,11 @@
+*{
+	font-family: 'opens';
+
+}
+header{
+	display: inline-block;
+	width: 100;
+}
+div article p{
+	display: inline-block;
+}
